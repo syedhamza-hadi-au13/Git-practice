@@ -4,7 +4,7 @@
 
 3. 1st change done from purple
 
-4. second change added from purple
+4. 2nd change added from purple
 
 5. 3rd change added from master branch
 
@@ -15,3 +15,4 @@
 8. 2nd change added from green branch
 
 9. final change added from master
+
