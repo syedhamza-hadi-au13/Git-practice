@@ -1,3 +1,10 @@
 1. 1st change done from master
 
 2.second change added from master
+
+3. 1st change done from purple
+
+4. second change added from purple
+
+5. 3rd change added from master branch
+
